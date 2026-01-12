@@ -1,0 +1,10 @@
+.DS_Store
+*.csv
+*.json
+*.text
+*.parquet
+*.pyc
+__init__.py
+*.faiss
+pytest_cache
+*.env
