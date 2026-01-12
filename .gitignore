@@ -8,3 +8,5 @@ __init__.py
 *.faiss
 pytest_cache
 *.env
+*.pkl
+metadata.pkl
